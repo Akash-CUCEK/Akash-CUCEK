@@ -71,35 +71,25 @@ https://github.com/Akash-CUCEK/shyam-jewellers-frontend
 
 ---
 
-### 🧑‍🤝‍🧑 Shreya Application
+### 💇 Shreya (Shree Makeover) – Salon Booking Application
 
 **Backend (Spring Boot)**
-- REST APIs for core business logic
-- JWT-based authentication and authorization
-- Clean layered architecture with JPA & Hibernate  
+- RESTful APIs for salon listing and time-slot booking
+- Admin & User modules with JWT-based authentication
+- Role-based access control (RBAC)
+- Clean layered architecture using Spring Boot, JPA & Hibernate
+- Database: PostgreSQL
 
 🔗 Backend Repository  
 https://github.com/Akash-CUCEK/ShreyaBackend  
 
 **Frontend (React.js)**
-- Modern React-based UI
-- API integration with backend services  
+- Modern, responsive React-based UI
+- Seamless API integration with backend services
 
 🔗 Frontend Repository  
 https://github.com/Akash-CUCEK/ShreyaFrontend  
 
----
-
-### 💇 Salon Booking Application
-
-- Backend system for salon listing and time-slot booking
-- Admin & User modules with secure authentication
-- RESTful APIs built using Spring Boot and PostgreSQL
-- JWT-based login and authorization  
-
-🔗 Repository: *(add link when ready)*
-
----
 
 ## 📫 Contact & Links
 - 📧 Email: **akashkumarcucek@gmail.com**
