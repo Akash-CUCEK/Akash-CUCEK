@@ -8,8 +8,8 @@
 - Backend-focused developer with strong expertise in **RESTful API design**
 - Hands-on experience with **JWT-based authentication** and **Role-Based Access Control (RBAC)**
 - Proficient in **Spring Data JPA, Hibernate**, and relational database modeling
-- Familiar with **Dockerized applications**, CI/CD pipelines, and **AWS cloud services**
-- Strong believer in clean code, modular architecture, and best engineering practices
+- Experienced in **Dockerized applications**, CI/CD pipelines, and **AWS cloud fundamentals**
+- Strong believer in clean code, modular architecture, and backend best practices
 
 ---
 
@@ -29,7 +29,7 @@
 
 **DevOps & Cloud:**  
 - Docker, Git, GitHub Actions  
-- AWS (EC2, S3 – basic exposure)
+- AWS (EC2, S3)
 
 **Tools & Testing:**  
 - Swagger, Postman, JUnit  
@@ -42,11 +42,11 @@
 **Tata Consultancy Services (TCS)**  
 *Nov 2023 – Present*
 
-- Designed and implemented RESTful APIs using **Spring Boot**
-- Integrated **JWT authentication** and secured APIs using Spring Security
-- Worked with **JPA/Hibernate** for efficient database access and optimization
-- Followed Git best practices including feature branching and pull requests
-- Collaborated with frontend teams using Swagger-based API documentation
+- Designed and implemented scalable RESTful APIs using **Spring Boot**
+- Integrated **JWT-based authentication** and secured APIs with Spring Security
+- Worked extensively with **JPA/Hibernate** for database interactions and optimization
+- Followed Git best practices including feature branching, PR reviews, and clean commits
+- Collaborated closely with frontend teams using Swagger-based API documentation
 
 ---
 
@@ -56,18 +56,37 @@
 
 **Backend (Spring Boot)**
 - Developed secure REST APIs with JWT authentication
-- Implemented Admin & User role-based access
+- Implemented Admin & User role-based access (RBAC)
 - Modules: Product, Category, Order, Payment
-- Database integration using PostgreSQL and Spring Data JPA  
+- Database: PostgreSQL with Spring Data JPA  
 
-🔗 Backend Repository:  
+🔗 Backend Repository  
 https://github.com/Akash-CUCEK/shyam-jewellers-backend  
 
 **Frontend (React.js)**
-- Responsive UI for users and admin panel  
+- Responsive user-facing UI and admin panel  
 
-🔗 Frontend Repository:  
+🔗 Frontend Repository  
 https://github.com/Akash-CUCEK/shyam-jewellers-frontend  
+
+---
+
+### 🧑‍🤝‍🧑 Shreya Application
+
+**Backend (Spring Boot)**
+- REST APIs for core business logic
+- JWT-based authentication and authorization
+- Clean layered architecture with JPA & Hibernate  
+
+🔗 Backend Repository  
+https://github.com/Akash-CUCEK/ShreyaBackend  
+
+**Frontend (React.js)**
+- Modern React-based UI
+- API integration with backend services  
+
+🔗 Frontend Repository  
+https://github.com/Akash-CUCEK/ShreyaFrontend  
 
 ---
 
@@ -78,11 +97,11 @@ https://github.com/Akash-CUCEK/shyam-jewellers-frontend
 - RESTful APIs built using Spring Boot and PostgreSQL
 - JWT-based login and authorization  
 
-🔗 Repository: *(add link here)*
+🔗 Repository: *(add link when ready)*
 
 ---
 
 ## 📫 Contact & Links
 - 📧 Email: **akashkumarcucek@gmail.com**
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/akashkumarcusat
 - 🧑‍💻 GitHub: https://github.com/Akash-CUCEK
